@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "FCMPushDemo"
 include(":app")
- 
+include(":core")
+include(":domain")
+include(":notification")
+include(":data")
