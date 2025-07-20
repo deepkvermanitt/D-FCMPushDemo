@@ -21,7 +21,8 @@ Via **Firebase Console**
     "body": "This is a test message."
 
   }
-}' https://fcm.googleapis.com/fcm/send
+}' https://fcm.googleapis.com/fcm/send 
+
 
 **Replace** YOUR_SERVER_KEY with your **Firebase Server Key**
 (Found in Firebase Console → Project Settings → Cloud Messaging tab)
@@ -31,6 +32,6 @@ Via **Firebase Console**
 This project follows MVVM with a clean architecture approach, making the FCM implementation modular, testable, and easy to scale — whether you're adding background sync, 
 deep linking, or analytics in the future
 
+<img width="432" height="488" alt="Screenshot 2025-07-20 at 3 32 37 PM" src="https://github.com/user-attachments/assets/30340eef-6f21-4d9f-a1fb-17ace45b9b73" />
 
-<img width="367" height="302" alt="Screenshot 2025-07-20 at 3 22 39 PM" src="https://github.com/user-attachments/assets/873277b3-f086-419e-968b-304ff8f6367a" />
-
+ 
